@@ -1,7 +1,7 @@
 # CSE 415
 # Project Milestone B
 # May 29, 2019
-# Mourad Heddaya and Chris Pecunies
+# Mourad Heddaya
 
 # Hidden Markov Model speech prediction application
 # (Eventually) will allow for recording one-word user recodings to be

@@ -2,7 +2,7 @@
 # CSE 415
 # Project Milestone C
 # June 04, 2019
-# Mourad Heddaya and Chris Pecunies
+# Mourad Heddaya
 
 # Hidden Markov Model Part of Speech Tagging
 
